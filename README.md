@@ -15,7 +15,7 @@ cpus: 1
 ...
 ```
 
-## Multiple Systems in a Single File Exmaple
+## Multiple Systems in a Single File Example
 ```
 # config.d/systems.yaml contents
 ---
